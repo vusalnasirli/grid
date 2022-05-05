@@ -1,0 +1,62 @@
+.container{
+    maxwidth: 1200px;
+    margin: auto;
+}
+[class*=col]{
+
+    float: left;
+}
+.col1{
+    width:  5.2%;
+}
+.col2{
+    width:  11.12%;
+}
+.col3{
+    width: 16.5%;
+}
+.col4{
+    width:  22%;
+}
+.col5{
+    width:  26.7%;
+}
+.col6{
+    width: 33.33%;
+}
+.col7{
+    width:  38.21%;
+}
+.col8{
+    width:  44.42%;
+}
+.col9{
+    width: 50%;
+}
+.col10{
+    width: 55.55%;
+}
+.col11{
+    width:  60.34%;
+}
+.col12{
+    width:64.34%;
+}
+.col13{
+    width:  71.46%;
+}
+.col14{
+    width:  77.125%;
+}
+.col15{
+    width: 83.33%;
+}
+.col16{
+    width:  88.88%;
+}
+.col17{
+    width:  93.33%;
+}
+.col18{
+    width: 100%;
+}
